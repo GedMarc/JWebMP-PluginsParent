@@ -1,0 +1,3 @@
+[submodule "AngularPlugins"]
+	path = AngularPlugins
+	url = https://github.com/GedMarc/JWebMPAngularPlugins-Parent.git
