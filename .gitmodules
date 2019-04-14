@@ -1,3 +1,18 @@
 [submodule "AngularPlugins"]
 	path = AngularPlugins
 	url = https://github.com/GedMarc/JWebMPAngularPlugins-Parent.git
+[submodule "JQueryPlugins"]
+	path = JQueryPlugins
+	url = https://github.com/GedMarc/JWebMP-JQuery-Parent.git
+[submodule "BootstrapPlugins"]
+	path = BootstrapPlugins
+	url = https://github.com/GedMarc/JWebMP-Bootstrap-Parent.git
+[submodule "JavaScriptPlugins"]
+	path = JavaScriptPlugins
+	url = https://github.com/GedMarc/JWebMP-JSPlugins-Parent.git
+[submodule "SecurityPlugins"]
+	path = SecurityPlugins
+	url = https://github.com/GedMarc/JWebMP-Security-Plugins.git
+[submodule "IonPlugins"]
+	path = IonPlugins
+	url = https://github.com/GedMarc/JWebMP-Ion-Plugins.git

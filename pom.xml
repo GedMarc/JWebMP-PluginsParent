@@ -16,6 +16,11 @@
 
     <modules>
         <module>AngularPlugins</module>
+        <module>BootstrapPlugins</module>
+        <module>JQueryPlugins</module>
+        <module>SecurityPlugins</module>
+        <module>JavaScriptPlugins</module>
+        <module>IonPlugins</module>
     </modules>
 
 </project>
