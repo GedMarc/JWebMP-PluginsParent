@@ -1,36 +1,48 @@
 [submodule "AngularPlugins"]
 	path = AngularPlugins
 	url = https://github.com/GedMarc/JWebMPAngularPlugins-Parent.git
+	ignore=dirty
 [submodule "JQueryPlugins"]
 	path = JQueryPlugins
 	url = https://github.com/GedMarc/JWebMP-JQuery-Parent.git
+	ignore=dirty
 [submodule "BootstrapPlugins"]
 	path = BootstrapPlugins
 	url = https://github.com/GedMarc/JWebMP-Bootstrap-Parent.git
+	ignore=dirty
 [submodule "JavaScriptPlugins"]
 	path = JavaScriptPlugins
 	url = https://github.com/GedMarc/JWebMP-JSPlugins-Parent.git
+	ignore=dirty
 [submodule "SecurityPlugins"]
 	path = SecurityPlugins
 	url = https://github.com/GedMarc/JWebMP-Security-Plugins.git
+	ignore=dirty
 [submodule "IonPlugins"]
 	path = IonPlugins
 	url = https://github.com/GedMarc/JWebMP-Ion-Plugins.git
+	ignore=dirty
 [submodule "BlueImp"]
 	path = BlueImp
 	url = https://github.com/GedMarc/JWebMP-BlueImp-Parent.git
+	ignore=dirty
 [submodule "IconSets"]
 	path = IconSets
 	url = https://github.com/GedMarc/JWebMP-IconSets-Parent.git
+	ignore=dirty
 [submodule "Forms"]
 	path = Forms
 	url = https://github.com/GedMarc/JWebMP-Forms-Plugins.git
+	ignore=dirty
 [submodule "Graphing"]
 	path = Graphing
 	url = https://github.com/GedMarc/JWebMP-Graphing-Parent.git
+	ignore=dirty
 [submodule "Effects"]
 	path = Effects
 	url = https://github.com/GedMarc/JWebMP-Effects-Parent.git
+	ignore=dirty
 [submodule "JQXWidgets"]
 	path = JQXWidgets
 	url = https://github.com/GedMarc/JWebMP-JQXWidgetsPlugin.git
+	ignore=dirty
