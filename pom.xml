@@ -14,13 +14,30 @@
     <name>JWebMP  Modules</name>
     <description>The root maven group for plugins for JWebMP</description>
 
-    <modules>
-        <module>AngularPlugins</module>
-        <module>BootstrapPlugins</module>
-        <module>JQueryPlugins</module>
-        <module>SecurityPlugins</module>
-        <module>JavaScriptPlugins</module>
-        <module>IonPlugins</module>
-    </modules>
+    <profiles>
+        <profile>
+            <id>devkit</id>
+            <modules>
+                <module>AngularPlugins</module>
+                <module>BootstrapPlugins</module>
+                <module>JQueryPlugins</module>
+                <module>SecurityPlugins</module>
+                <module>JavaScriptPlugins</module>
+                <module>IonPlugins</module>
+                <module>BlueImp</module>
+                <module>IconSets</module>
+                <module>Forms</module>
+                <module>Graphing</module>
+                <module>Effects</module>
+            </modules>
+        </profile>
+
+        <profile>
+            <id>enable-jqxwidgets</id>
+            <modules>
+                <module>JQXWidgets</module>
+            </modules>
+        </profile>
+    </profiles>
 
 </project>

@@ -16,3 +16,21 @@
 [submodule "IonPlugins"]
 	path = IonPlugins
 	url = https://github.com/GedMarc/JWebMP-Ion-Plugins.git
+[submodule "BlueImp"]
+	path = BlueImp
+	url = https://github.com/GedMarc/JWebMP-BlueImp-Parent.git
+[submodule "IconSets"]
+	path = IconSets
+	url = https://github.com/GedMarc/JWebMP-IconSets-Parent.git
+[submodule "Forms"]
+	path = Forms
+	url = https://github.com/GedMarc/JWebMP-Forms-Plugins.git
+[submodule "Graphing"]
+	path = Graphing
+	url = https://github.com/GedMarc/JWebMP-Graphing-Parent.git
+[submodule "Effects"]
+	path = Effects
+	url = https://github.com/GedMarc/JWebMP-Effects-Parent.git
+[submodule "JQXWidgets"]
+	path = JQXWidgets
+	url = https://github.com/GedMarc/JWebMP-JQXWidgetsPlugin.git
