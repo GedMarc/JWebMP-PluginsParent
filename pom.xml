@@ -16,18 +16,68 @@
 
     <profiles>
         <profile>
-            <id>devkit</id>
+            <id>enable-angular</id>
             <modules>
                 <module>AngularPlugins</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-bootstrap</id>
+            <modules>
                 <module>BootstrapPlugins</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-jquery</id>
+            <modules>
                 <module>JQueryPlugins</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-security</id>
+            <modules>
                 <module>SecurityPlugins</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-javascript</id>
+            <modules>
                 <module>JavaScriptPlugins</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-ion</id>
+            <modules>
                 <module>IonPlugins</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-blueimp</id>
+            <modules>
                 <module>BlueImp</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-iconsets</id>
+            <modules>
                 <module>IconSets</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-forms</id>
+            <modules>
                 <module>Forms</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-graphing</id>
+            <modules>
                 <module>Graphing</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>enable-effects</id>
+            <modules>
                 <module>Effects</module>
             </modules>
         </profile>
