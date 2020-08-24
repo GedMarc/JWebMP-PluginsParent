@@ -85,7 +85,7 @@
         <profile>
             <id>enable-jqxwidgets</id>
             <modules>
-                <module>JQXWidgets</module>
+                <!--<module>JQXWidgets</module>-->
             </modules>
         </profile>
     </profiles>
