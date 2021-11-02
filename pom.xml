@@ -12,7 +12,7 @@
     <artifactId>jwebmp-plugins-modules</artifactId>
     <packaging>pom</packaging>
     <version>0.0.0_0-SNAPSHOT</version>
-    <name>JWebMP  Modules</name>
+    <name>JWebMP Modules</name>
     <description>The root maven group for plugins for JWebMP</description>
 
     <profiles>
